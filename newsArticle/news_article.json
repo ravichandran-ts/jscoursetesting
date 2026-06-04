@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "id": "art-001",
+      "title": "Global Tech Summit Unveils Next-Generation AI Tools",
+      "author": "Sarah Jenkins",
+      "source": "TechPulse Media",
+      "category": "Technology",
+      "publishedAt": "2026-06-04T09:30:00Z",
+      "description": "The annual Global Tech Summit kicked off today with major announcements regarding decentralized artificial intelligence models and energy-efficient consumer hardware.",
+      "url": "https://techpulseexample.com",
+      "imageUrl": "https://techpulseexample.com",
+      "content": "SAN FRANCISCO -- The Global Tech Summit opened its doors this morning, drawing thousands of developers and tech firms. The primary focus of this year's event centers heavily on open-source, decentralized AI architectures. Industry leaders argue that shifting away from centralized data centers will significantly enhance user data privacy. Alongside software breakthroughs, several companies exhibited prototype mobile processors that reduce battery consumption by 40% during local machine learning workloads.",
+      "tags": ["AI", "Tech Summit", "Innovation", "Hardware"]
+    },
+    {
+      "id": "art-002",
+      "title": "Central Bank Adjusts Interest Rates Amid Stabilizing Inflation",
+      "author": "Michael Chang",
+      "source": "Financial Observer",
+      "category": "Business",
+      "publishedAt": "2026-06-04T11:15:00Z",
+      "description": "In a surprise move, the Central Bank announced a minor rate cut, citing consecutive quarters of steady consumer price indexes.",
+      "url": "https://financialobserverexample.com",
+      "imageUrl": "https://financialobserverexample.com",
+      "content": "LONDON -- Financial markets reacted positively after the Central Bank lowered its benchmark interest rate by 25 basis points today. The committee stated that inflation metrics have officially leveled out within target parameters for six straight months. Economists predict this policy easing will provide substantial relief to the housing sector by lowering fixed-rate mortgage averages. Critics, however, warn that premature cuts risk reigniting core consumer spending inflation before the fiscal year concludes.",
+      "tags": ["Economy", "Banking", "Inflation", "Markets"]
+    }
+  ]
+}
